@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Magic Recipe</string>
+    <string-array name="ingredients">
+        <item>champagne</item>
+        <item>ginger</item>
+        <item>ice</item>
+        <item>vodka</item>
+        <item>cheddar cheese</item>
+        <item>eggs</item>
+        <item>olive oil</item>
+        <item>salt</item>
+        <item>potato</item>
+        <item>brown sugar</item>
+        <item>powdered sugar</item>
+        <item>flour</item>
+        <item>nutmeg</item>
+        <item>vanilla extract</item>
+        <item>rum</item>
+        <item>sugar</item>
+
+        <item>pork chops</item>
+        <item>milk</item>
+        <item>instant coffee</item>
+        <item>lettuce</item>
+        <item>ranch dressing</item>
+        <item>barbecue sauce</item>
+        <item>cilantro</item>
+        <item>cinnamon</item>
+        <item>cloves</item>
+        <item>nutmeg</item>
+        <item>orange</item>
+        <item>pepperoncini</item>
+        <item>seashell pasta</item>
+        <item>oats</item>
+
+
+    </string-array>
+</resources>
